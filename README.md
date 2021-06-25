@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Social media dashboard with theme switcher coding challenge](../Screenshot.png)
+![Design preview for the Social media dashboard with theme switcher coding challenge](Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/Ahmed1shihab/social-media-dashboard)
+- Live Site URL: [Click Here](https://ahmed1shihab.github.io/social-media-dashboard/)
 
 ## My process
 
